@@ -18,4 +18,4 @@ Review the notebooks in this order:
 Hope you like it, thanks.
 
 ## Author
-### Jorge Benitez
+### Hiamnshu Chaudhary
